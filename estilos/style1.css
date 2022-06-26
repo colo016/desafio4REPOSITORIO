@@ -66,20 +66,12 @@ body{
    
 }
 
-.logo{
-
-    display: flex;
-    flex-direction: row;
-    height: 10vh;
-    width: 50vh;
-    margin-left: 20px;
-    animation: flip 4s linear infinite;
-    
-}
+ 
 
 @keyframes flip{
      50%{ transform: rotateX(180deg); }
 }
+
 
 .empresa{
 
@@ -836,8 +828,21 @@ footer{
 
     /* FIN CSS de siniestro */
 
+    /* =================================================================================================*/  
 
-}
+    /* Transformaciones y transiciones*/
+
+    
+    
+    
+
+    /* Fin Transformaciones y transiciones*/
+
+
+
+
+
+
 
 
 
