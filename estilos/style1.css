@@ -664,19 +664,7 @@ footer{
     height: auto;
 }
 
-.imagenseguros{
 
-    width: 100%;
-    height: 200px;
-    border-radius: 15px;
-    transition: all 2s;
-}
-
-
-.imagenseguros:hover{
-
-    transform: scale(1.5);
-}
 
 .gridtexto{
 
@@ -846,6 +834,19 @@ footer{
          50%{ transform: rotateX(180deg); }
     }
     
+    .imagenseguros{
+
+        width: 100%;
+        height: 200px;
+        border-radius: 15px;
+        transition: all 2s;
+    }
+    
+    
+    .imagenseguros:hover{
+    
+        transform: scale(1.5);
+    }
 
 
 
