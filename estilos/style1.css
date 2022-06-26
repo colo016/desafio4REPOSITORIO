@@ -67,6 +67,8 @@ body{
 }
 
 
+
+
 .empresa{
 
     margin-left: 10px;
@@ -904,6 +906,13 @@ footer{
       .itembotonconoce:hover {
         background: rgb(35, 141, 71);
       }
+
+      .item:hover{
+
+        background-color: white;
+        transition: 1.5s;
+        border-radius: 5px;
+    }
 
    
 
