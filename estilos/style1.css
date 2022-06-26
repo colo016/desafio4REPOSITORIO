@@ -914,6 +914,13 @@ footer{
         border-radius: 5px;
     }
 
+    .imagenproductogrid:hover{
+
+        opacity: 0.5;
+        transition: 1s;
+       
+    }
+
    
 
 
